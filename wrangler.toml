@@ -1,0 +1,12 @@
+name = "sb1-dd"
+main = "src/index.js"
+compatibility_date = "2024-11-02"
+
+account_id = "fda94580b02a3e5f293ab23d189e598a"
+workers_dev = true
+
+[vars]
+PUBLIC_KEY = "dc1b1fad6c4ef1c4a6a4cff0c6a19f43"
+
+[build]
+command = "npm run build"
